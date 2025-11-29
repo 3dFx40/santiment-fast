@@ -1,0 +1,7 @@
+{
+  "name": "סנטימנט מהיר",
+  "description": "An application that finds up-to-date information about a word, phrase, or image from across the web, providing a summary and related topics using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
